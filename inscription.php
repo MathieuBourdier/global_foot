@@ -35,6 +35,6 @@
     </form>
     <a href="global_foot.php">se connecter </a>
 </div>
-
+    //tres jolie formulaire Toufik 
 </body>
 </html>
